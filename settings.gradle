@@ -1,0 +1,3 @@
+rootProject.name='Login5'
+include ':app'
+include ':mylibrary'
